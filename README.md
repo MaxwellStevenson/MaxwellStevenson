@@ -12,7 +12,7 @@ var _0x49ee7e=_0x20f4;(function(_0x3602d4,_0x3ce3e7){var _0xc3fb42=_0x20f4,_0x17
   "operatingSystem": "Windows 11",
   "browser": "Opera Gx",
   "programmingLanguages": ["Javascript", "HTML", "Python", "CSS"],
-  "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "john", "burpsuite", "hashcat"],
+  "hackingTools": ["Kali Linux!" "nmap", "wireshark", "hydra", "metasploit-framework", "john", "burpsuite", "hashcat"],
   "editor": "VSCode",
   "socials": {
     "email": "maxwelltstevenson@gmail.com",
