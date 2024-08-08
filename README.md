@@ -10,7 +10,7 @@ var _0x49ee7e=_0x20f4;(function(_0x3602d4,_0x3ce3e7){var _0xc3fb42=_0x20f4,_0x17
   "age": 14,
   "intrests": ["programming", "gaming", "Hacking"],
   "operatingSystem": "Windows 11",
-  "browser": "Opera Gx",
+  "browser": "Chrome",
   "programmingLanguages": ["Javascript", "HTML", "Python", "CSS"],
   "hackingTools": ["Kali Linux!" "nmap", "wireshark", "hydra", "metasploit-framework", "john", "burpsuite", "hashcat"],
   "editor": "VSCode",
