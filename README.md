@@ -7,7 +7,7 @@ var _0x49ee7e=_0x20f4;(function(_0x3602d4,_0x3ce3e7){var _0xc3fb42=_0x20f4,_0x17
 ```javascript
 {
   "name": "Maxwell",
-  "age": 14,
+  "age": 15,
   "intrests": ["programming", "gaming", "Hacking"],
   "operatingSystem": "Windows 11",
   "browser": "Chrome",
